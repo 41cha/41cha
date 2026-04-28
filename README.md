@@ -45,9 +45,6 @@
   <p>
     <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white">
   </p>
@@ -57,10 +54,13 @@
   <p style="font-family: 'Garamond', serif; font-size: 1.4em; letter-spacing: 2px; margin-bottom: 20px;"><b>TOOLS & ENVIRONMENT</b></p>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=white">
+    <img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=pycharm&logoColor=white">
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white">
+    <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white">
   </p>
 
   <br>
@@ -81,13 +81,13 @@
 
   <p style="font-family: 'Garamond', serif; font-size: 1.4em; letter-spacing: 2px; margin-bottom: 20px;"><b>GITHUB STATS</b></p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=41cha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=41cha&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=41cha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages">
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contributions Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=41cha&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contributions Graph">
 
 </div>
 
