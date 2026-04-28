@@ -81,13 +81,13 @@
 
   <p style="font-family: 'Garamond', serif; font-size: 1.4em; letter-spacing: 2px; margin-bottom: 20px;"><b>GITHUB STATS</b></p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=41cha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=41cha&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" alt="GitHub Stats">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=41cha&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=41cha&theme=default&hide_border=true&background=ffffff" alt="Streak">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=41cha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=41cha&layout=compact&theme=default&hide_border=true&bg_color=ffffff" alt="Top Languages">
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=41cha&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contributions Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=41cha&theme=minimal&hide_border=true&bg_color=ffffff" alt="Contributions Graph">
 
 </div>
 
