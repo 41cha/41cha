@@ -19,8 +19,8 @@
   <h2 style="border-bottom: none; font-size: 2.5em; font-weight: 500; margin-bottom: 15px; letter-spacing: -0.5px;">Hey, I'm Volodymyr</h2>
 
   <p style="font-size: 1.3em; margin: 10px 0;">
-    Junior Fullstack Developer & Team Lead at the intersection of<br>
-    <span style="color: #bc8cff; font-variant: small-caps; letter-spacing: 1px;"><b>web development</b></span>
+    Junior Backend Developer & Team Lead at the intersection of<br>
+    <span style="color: #bc8cff; font-variant: small-caps; letter-spacing: 1px;"><b>backend development</b></span>
     and
     <span style="color: #79c0ff; font-variant: small-caps; letter-spacing: 1px;"><b>FPV drone technology</b></span>.
   </p>
