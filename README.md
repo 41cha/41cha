@@ -8,7 +8,7 @@
   <a href="mailto:vova.dzimina@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://www.linkedin.com/in/volodymyrdzimina-018814389](https://www.linkedin.com/in/volodymyr-dzimina-018814389/)">
+  <a href="https://www.linkedin.com/in/volodymyr-dzimina-018814389/">
     <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
